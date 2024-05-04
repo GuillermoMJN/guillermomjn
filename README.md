@@ -1,5 +1,5 @@
 # Presentación de Guillermo Jiménez
-![Imagen de Portada](url_de_la_imagen)
+![Imagen de Portada](imagenes/presentacion.jpg)
 
 ## Descripción 
 En esta presentación te encontrás con un CV en el cual se reflejan mis formaciones, mis proyectos y detalles sobre mi.
