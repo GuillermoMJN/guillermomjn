@@ -17,6 +17,5 @@ En esta presentación te encontrás con un CV en el cual se reflejan mis formaci
     <img src="imagenes/gitHubImage.png" alt="RetoGit" witdh="200px" height="200px">
 </a>
 
-
 ## Licencia 
 Licencia bajo la cual se distribuye el proyecto. 
