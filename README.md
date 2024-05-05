@@ -13,7 +13,9 @@ En esta presentación te encontrás con un CV en el cual se reflejan mis formaci
 ## Pequeño proyecto Git
 - Si pinchas en el siguiente enlace te llevará a un proyecto donde redacto diferentes casuísticas que puedes aplicar para aprender a utilizar GitHub y GitHub Desktop:
   [Proyecto Reto 02 de Git](https://github.com/GuillermoMJN/retogit)
-  [Imagen de GitHub(imagenes/gitHubImage.png)](https://github.com/GuillermoMJN/retogit)
+  <a href="[enlace_del_destino](https://github.com/GuillermoMJN/retogit)">
+    <img src="imagenes/gitHubImage.png" alt="RetoGit">
+</a>
 
 
 ## Licencia 
