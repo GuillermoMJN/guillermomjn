@@ -11,7 +11,7 @@ En esta presentación te encontrás con un CV en el cual se reflejan mis formaci
 - Sobre mi: Apasionado de la programación en todos los ámbitos, amante de los videojuegos en constante formación.
 
 ## Pequeño proyecto Git
-- Si pinchas en el siguiente enlace te llevará a un proyecto donde redacto diferentes casuísticas que puedes aplicar para aprender a utilizar GitHub y GitHub Desktop:
+- Diferentes retos de programación:
 
   <a href="https://github.com/GuillermoMJN/retogit">
     <img src="imagenes/gitHubImage.png" alt="RetoGit" witdh="200px" height="200px">
