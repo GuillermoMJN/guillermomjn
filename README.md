@@ -17,5 +17,23 @@ En esta presentación te encontrás con un CV en el cual se reflejan mis formaci
     <img src="imagenes/gitHubImage.png" alt="RetoGit" witdh="200px" height="200px">
 </a>
 
+## Lenguajes de programación mas utilizados:
+- Flutter
+- Java
+- HTML
+- CSS
+- SQL                           
+
+## FrameWorks mas utilizados:
+- Visual Studio Code
+- JUnit
+
+## Gestor de proyectos
+. Jira
+
+## Últimas experiencias laborales:
+- Técnico de operaciones en AbaiGroup
+- Desarrolador UI en Threan
+
 ## Licencia 
 Licencia bajo la cual se distribuye el proyecto. 
