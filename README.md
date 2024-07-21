@@ -13,13 +13,13 @@ En esta presentación te encontrás con un CV en el cual se reflejan mis formaci
 ## Pequeño proyecto Git
 - Diferentes retos de programación:
 
+<p>Es un pequeño reto de subir archivos a git, pulsa en la imagen para acceder al repositorio:</p>
 <a href="https://github.com/GuillermoMJN/retogit">
-    <p>Es un pequeño reto de subir archivos a git:</p>
     <img src="imagenes/gitHubImage.png" alt="RetoGit" witdh="150px" height="150px">
 </a>
 
+<p>Una página web creada unicamente con HTML y CSS, pulsa en la imagen para acceder al respositorio:</p>
 <a href="https://github.com/GuillermoMJN/webRestaurante">
-    <p>Una página web creada unicamente con HTML y CSS</p>
     <img src="imagenes/imagen_git.png" alt="RetoGit" witdh="150px" height="150px">
 </a>
 
