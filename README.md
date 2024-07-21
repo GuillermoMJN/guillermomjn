@@ -20,7 +20,6 @@ En esta presentación te encontrás con un CV en el cual se reflejan mis formaci
 
 <a href="https://github.com/GuillermoMJN/webRestaurante">
     <p>Una página web creada unicamente con HTML y CSS</p>
-    <img src="imagenes/gitHubImage.png" alt="RetoGit" witdh="200px" height="200px">
 </a>
 
 ## Lenguajes de programación mas utilizados:
