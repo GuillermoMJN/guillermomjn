@@ -30,12 +30,16 @@ En esta presentación te encontrás con un CV en el cual se reflejan mis formaci
 - CSS
 - SQL                           
 
-## FrameWorks mas utilizados:
+## Entornos de desarrollo mas utilizados:
 - Visual Studio Code
 - JUnit
 
 ## Gestor de proyectos
 . Jira
+
+## Controladore de versiones:
+- Git
+- Git Hub
 
 ## Últimas experiencias laborales:
 - Técnico de operaciones en AbaiGroup
