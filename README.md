@@ -29,7 +29,7 @@ En esta presentación te encontrás con un CV en el cual se reflejan mis formaci
 - JUnit
 
 ## Gestor de proyectos
-. Jira
+- Jira
 
 ## Controladore de versiones:
 - Git
