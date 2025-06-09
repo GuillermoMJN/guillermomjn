@@ -2,7 +2,7 @@
 ![Imagen de Portada](imagenes/presentacion.jpg)
 
 ## Descripción de la página:
-En esta presentación te encontrás con un CV en el cual se reflejan mis formaciones, mis proyectos y detalles sobre mi.
+Eesta es la presentación de mi perfil como programador.
 
 ## Características sobre mi:
 - Formación: Formacion profesional Superior Desarrollo Aplicaciones Multiplataforma
@@ -11,24 +11,37 @@ En esta presentación te encontrás con un CV en el cual se reflejan mis formaci
              
 - Sobre mi: Apasionado del desarrollo de aplicaciones, actualmente realizando proyectos propios con los cuales crecer a nivel personla y entender mejor todas las tecnologías que abarcan el gran mundo del desarrollo de aplicaciones.
 
-## Lenguajes de programación mas utilizados:
+## 💻 Lenguajes de programación mas utilizados:
 - Kotlin
 - Dart
 - Java
+- Python
 - HTML
 - CSS
 - SQL
 
-## Frameworks y tecnologías:
+##📱 Desarrollo móvil Android
 - Jetpack Compose
-- Flutter
+- Android SDK
+- Firebase (Auth, Firestore, Storage)
+- MVVM (arquitectura)
+- Coroutines y Flow
+- ViewModel / LiveData
+- Navigation Component
 
-## Entornos de desarrollo mas utilizados:
+##🔧 Lenguajes de soporte
+- Kotlin
+- XML
+- Gradle
+
+##☁️ Cloud / Backend
+- Firebase Functions (si usaste funciones en la nube)
+
+## Otros entornos de desarrollo:
 - Visual Studio Code
-- Android Studio
 - JUnit
 
-## Gestor de proyectos
+## Gestor de proyectos:
 - Jira
 
 ## Controladore de versiones:
