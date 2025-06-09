@@ -5,9 +5,12 @@
 Eesta es la presentación de mi perfil como programador.
 
 ## Características sobre mi:
-- Formación: Formacion profesional Superior Desarrollo Aplicaciones Multiplataforma
-             Formacion profesional Superior Animación 3D, videojuegos y entornos interactivos.
-             Formación profesional Superior Administración y Finanzas.
+- Formación:
+  - Formacion profesional Superior Desarrollo Aplicaciones Multiplataforma
+  - Formacion profesional Superior Animación 3D, videojuegos y entornos interactivos.
+  - Formación profesional Superior Administración y Finanzas.
+             
+            
              
 - Sobre mi: Apasionado del desarrollo de aplicaciones, actualmente realizando proyectos propios con los cuales crecer a nivel personla y entender mejor todas las tecnologías que abarcan el gran mundo del desarrollo de aplicaciones.
 
