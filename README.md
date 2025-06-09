@@ -20,7 +20,7 @@ Eesta es la presentación de mi perfil como programador.
 - CSS
 - SQL
 
-##📱 Desarrollo móvil Android
+## 📱 Desarrollo móvil Android
 - Jetpack Compose
 - Android SDK
 - Firebase (Auth, Firestore, Storage)
@@ -29,12 +29,12 @@ Eesta es la presentación de mi perfil como programador.
 - ViewModel / LiveData
 - Navigation Component
 
-##🔧 Lenguajes de soporte
+## 🔧 Lenguajes de soporte
 - Kotlin
 - XML
 - Gradle
 
-##☁️ Cloud / Backend
+## ☁️ Cloud / Backend
 - Firebase Functions (si usaste funciones en la nube)
 
 ## Otros entornos de desarrollo:
