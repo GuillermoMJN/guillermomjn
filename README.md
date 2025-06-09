@@ -5,33 +5,27 @@
 En esta presentación te encontrás con un CV en el cual se reflejan mis formaciones, mis proyectos y detalles sobre mi.
 
 ## Características sobre mi:
-- Formación: Formación profesional Superior Administración y Finanzas.
+- Formación: Formacion profesional Superior Desarrollo Aplicaciones Multiplataforma
              Formacion profesional Superior Animación 3D, videojuegos y entornos interactivos.
-             Formacion profesional Superior Desarrollo Aplicaciones Multiplataforma (Estudiando)
-- Sobre mi: Apasionado de la programación en todos los ámbitos, amante de los videojuegos en constante formación.
-
-## Pequeño proyecto Git
-- Diferentes retos de programación:
-
-<p>Es un pequeño reto de subir archivos a git, pulsa en la imagen para acceder al repositorio:</p>
-<a href="https://github.com/GuillermoMJN/retogit">
-    <img src="imagenes/gitHubImage.png" alt="RetoGit" witdh="150px" height="150px">
-</a>
-
-<p>Una página web creada unicamente con HTML y CSS, pulsa en la imagen para acceder al respositorio:</p>
-<a href="https://github.com/GuillermoMJN/webRestaurante">
-    <img src="imagenes/imagen_git.png" alt="RetoGit" witdh="150px" height="150px">
-</a>
+             Formación profesional Superior Administración y Finanzas.
+             
+- Sobre mi: Apasionado del desarrollo de aplicaciones, actualmente realizando proyectos propios con los cuales crecer a nivel personla y entender mejor todas las tecnologías que abarcan el gran mundo del desarrollo de aplicaciones.
 
 ## Lenguajes de programación mas utilizados:
-- Flutter
+- Kotlin
+- Dart
 - Java
 - HTML
 - CSS
-- SQL                           
+- SQL
+
+## Frameworks y tecnologías:
+- Jetpack Compose
+- Flutter
 
 ## Entornos de desarrollo mas utilizados:
 - Visual Studio Code
+- Android Studio
 - JUnit
 
 ## Gestor de proyectos
@@ -46,4 +40,4 @@ En esta presentación te encontrás con un CV en el cual se reflejan mis formaci
 - Desarrolador UI en Threan
 
 ## Licencia 
-Licencia bajo la cual se distribuye el proyecto. 
+Licencia bajo la cual se distribuye el proyecto.
