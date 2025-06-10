@@ -2,7 +2,7 @@
 ![Imagen de Portada](imagenes/presentacion.jpg)
 
 ## Descripción de la página:
-Eesta es la presentación de mi perfil como programador.
+En esta pagina te vas a encontrar ciertas características sobre mi y mi pasión, la programación, soy técnico en desarrollo de aplicaciones multiplataforma, especializado en desarrollo con Kotlin utilizando Android SDK y Jetpack Compose.
 
 ## Características sobre mi:
 - Formación:
