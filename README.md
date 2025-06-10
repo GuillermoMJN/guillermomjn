@@ -38,7 +38,7 @@ En esta pagina te vas a encontrar ciertas características sobre mi y mi pasión
 - Gradle
 
 ## ☁️ Cloud / Backend
-- Firebase Functions (si usaste funciones en la nube)
+- Firebase Functions
 
 ## Otros entornos de desarrollo:
 - Visual Studio Code
