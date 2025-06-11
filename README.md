@@ -19,8 +19,6 @@ En esta pagina te vas a encontrar ciertas características sobre mi y mi pasión
 - Dart
 - Java
 - Python
-- HTML
-- CSS
 - SQL
 
 ## 📱 Desarrollo móvil Android
