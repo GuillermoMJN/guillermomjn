@@ -12,8 +12,8 @@ En esta pagina te vas a encontrar ciertas características sobre mi y mi pasión
              
             
              
-- Sobre mi: Apasionado del desarrollo de aplicaciones, actualmente realizando proyectos propios con los cuales crecer a nivel personla y entender mejor todas las tecnologías que abarcan el gran mundo del desarrollo de aplicaciones.
-
+- Sobre mi: Apasionado del desarrollo de aplicaciones, actualmente realizando proyectos propios con los cuales crecer a nivel personal y entender mejor todas las tecnologías que abarcan el gran mundo del desarrollo de aplicaciones.
+l
 ## 💻 Lenguajes de programación mas utilizados:
 - Kotlin
 - Dart
