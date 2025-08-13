@@ -52,6 +52,3 @@ En esta pagina te vas a encontrar ciertas características sobre mi y mi pasión
 ## Últimas experiencias laborales:
 - Técnico de operaciones en AbaiGroup
 - Desarrolador UI en Threan
-
-## Licencia 
-Licencia bajo la cual se distribuye el proyecto.
